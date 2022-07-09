@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Ayaka 👋</h1>
-<h3 align="center">A passionate iOS/backend engineer in Vancouver</h3>
+<h3 align="center">A software engineer in Vancouver</h3>
 
-&#x270d; You can see all of my works at https://www.daikisugihara.com
+&#x270d; You can see all of my works at https://www.ayakayasuda.com/
 
-![linkedin](https://user-images.githubusercontent.com/37020406/117369945-8117dd00-ae7a-11eb-89b3-1b5d859eb4f8.png) Know about my experiences https://www.linkedin.com/in/daiki-sugihara-97b7b7150
+![linkedin](https://user-images.githubusercontent.com/37020406/117369945-8117dd00-ae7a-11eb-89b3-1b5d859eb4f8.png) Know about my experiences https://www.linkedin.com/in/ayaka-yasuda-7ab597197
 
 ## &#x1f4c8; GitHub Stats
 [![Ayaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyakaYasuda&theme=radical&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=radical&show_icons=true&count_private=true)
