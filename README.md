@@ -33,4 +33,4 @@ Check out my portfolio website 🙈 👉 https://www.ayakayasuda.com/
 
 <br>
 
-[![Ayaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyakaYasuda&theme=cobalt&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=DaiSugi01&theme=radical&show_icons=true&count_private=true)
+[![Ayaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyakaYasuda&theme=cobalt&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=AyakaYasuda&theme=cobalt&show_icons=true&count_private=true)
