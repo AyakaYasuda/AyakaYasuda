@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Ayaka :)
 
-### I'm a software developer based in Vancouver 🇨🇦
+### I'm a software engineer based in Vancouver 🇨🇦
 
 You can find me on <a href="https://www.linkedin.com/in/ayaka-yasuda-7ab597197">![linkedin](https://user-images.githubusercontent.com/37020406/117369945-8117dd00-ae7a-11eb-89b3-1b5d859eb4f8.png)</a> to know more about me and my works.  
 Check out my portfolio website 🙈 👉 https://www.ayakayasuda.com/
