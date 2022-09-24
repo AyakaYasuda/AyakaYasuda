@@ -29,6 +29,7 @@ Check out my portfolio website 🙈 👉 https://www.ayakayasuda.com/
 ![](https://img.shields.io/badge/CICD-GitHubActions-informational?style=flat&logo=githubactions&logoColor=white&color=bde0fe)  
 
 ![](https://img.shields.io/badge/Other-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=fbf8cc)
+![](https://img.shields.io/badge/Other-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=fbf8cc)
 ![](https://img.shields.io/badge/Other-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=fbf8cc)
 ![](https://img.shields.io/badge/Other-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=fbf8cc)
 ![](https://img.shields.io/badge/Other-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=fbf8cc)
